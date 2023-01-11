@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Document pages',
+  title: 'Document pages',
   tagline: 'Dinosaurs are cool',
   url: 'https://bosch-ecs-career-camp.github.io',
   baseUrl: 'uprazhnenie-dokumentaciya-sashosotirov',
