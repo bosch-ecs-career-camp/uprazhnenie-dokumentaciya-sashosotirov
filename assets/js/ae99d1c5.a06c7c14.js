@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_server=self.webpackChunkdoc_server||[]).push([[2010],{5462:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/uprazhnenie-dokumentaciya-sashosotirov/blog/tags/docusaurus","allTagsPath":"/uprazhnenie-dokumentaciya-sashosotirov/blog/tags","count":4}')}}]);

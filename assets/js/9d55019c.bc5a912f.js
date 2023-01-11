@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_server=self.webpackChunkdoc_server||[]).push([[9597],{3050:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/uprazhnenie-dokumentaciya-sashosotirov/blog/tags/hello","allTagsPath":"/uprazhnenie-dokumentaciya-sashosotirov/blog/tags","count":2}')}}]);
